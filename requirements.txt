@@ -1,0 +1,8 @@
+boto3
+beautifulsoup4
+chromadb
+fastapi
+langgraph
+python-dotenv
+requests
+uvicorn

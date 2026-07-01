@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+chroma_db/
+pipeline-report.json
+exercise-2-data-engineering/data-science-output.json
+exercise-2-data-engineering/pipeline-report.json
+exercise-2-data-engineering/chroma_db/
+exercise-3-app-development/vector-db-config.json
